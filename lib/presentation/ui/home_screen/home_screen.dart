@@ -71,7 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 },
               )),
           Positioned(
-              bottom: 250,
+              bottom: 200,
               right: 155,
               child: GlobalPlayWidget(
                 title: "math",

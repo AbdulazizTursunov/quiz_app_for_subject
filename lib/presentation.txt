@@ -1,0 +1,45 @@
+MATH questions
+
+1. 3x + 5y = 20 tenglamani yeching. x va y qiymatlari nima bo'lishi mumkin?
+
+2. 12 ning 20% ni toping.
+
+3. Kvadrat to'g'ri to'g'ri tomonlarini yuzasini toping, agar tomon uzunligi 6 sm bo'lsa.
+
+4. 5 dona o'quvchidan 3 ta kitob yozishni boshlaganlar. Har biri 4 kundan bir kitob yozsa, 2 kundan qancha kitob yozishadi?
+
+5. 60 ning 25% ni toping.
+
+6. 7x - 4y = 14 va 2x + 3y = 7 tenglamalarni yeching. x va y ni toping.
+
+7. 8 dona ovoz bilan 10 soniyadan kichik va 12 dona ovoz bilan 15 soniyadan katta bo'lgan ikkita soniyani toping.
+
+8. Kvadratning yuzini toping, agar perimetri 24 sm bo'lsa.
+
+9. 15 ning 40% ni toping.
+
+10. 9x + 6y = 27 va 3x + 2y = 9 tenglamalarni yeching. x va y ni toping.
+
+answer
+
+1. x = 5, y = 3
+
+2. 12 ning 20% ni topish uchun 2.4 ni topamiz.
+
+3. Kvadratning yuzasi A = 6 * 6 = 36 kvadrat santimetr.
+
+4. Har bir o'quvchi 2 ta kitob yozadi.
+
+5. 60 ning 25% ni topish uchun 15 ni topamiz.
+
+6. x = 2, y = 3
+
+7. 8 dona ovoz bilan 10 soniyadan kichik va 12 dona ovoz bilan 15 soniyadan katta bo'lgan ikkita soniyani topamiz. Natijada, 4 ovoz bilan 5 soniya va 4 ovoz bilan 5 soniya bo'lgan ikkita soniya topiladi.
+
+8. Kvadratning yuzasini topish uchun to'g'ri tomonni topamiz: 24 / 4 = 6 sm. Shuningdek, yuzasini topish uchun A = 6 * 6 = 36 kvadrat santimetr.
+
+9. 15 ning 40% ni topish uchun 6 ni topamiz.
+
+10. x = 3, y = 3
+
+

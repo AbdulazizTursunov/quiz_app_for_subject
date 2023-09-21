@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:quiz_app_for_client/presentation/ui/home_screen/home_screen.dart';
 import 'package:quiz_app_for_client/utils/app_svg/app_svg.dart';
 import 'package:quiz_app_for_client/widget/custom_screen.dart';
+import 'package:quiz_app_for_client/widget/next_widget.dart';
 import '../../../data/questions_model/questions_model.dart';
 import '../../../widget/questions_widget.dart';
 
@@ -39,6 +41,10 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
               select: questions[index].options,
             ),
           ),
+          Positioned(
+              bottom: 50,
+              left: 120,
+              child: NextTapWidget(title: "Next", callback: () { Navigator.push(context, MaterialPageRoute(builder: (context) =>const HomeScreen(),)); },))
         ]),
       ),
     );
